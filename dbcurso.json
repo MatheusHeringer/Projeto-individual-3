@@ -1,0 +1,50 @@
+{
+  "alunos": [
+    {
+      "nome": "matheus Heringer ",
+      "endereço": "Rua lidice",
+      "bairro": "Paciencia",
+      "cidade": "Rio de Janeiro",
+      "email": "theus.heringer@gmail.com",
+      "id_curso": 1,
+      "id": 1
+    },
+    {
+      "nome": "alexan",
+      "endereço": "Rua muri",
+      "bairro": "Paciencia",
+      "cidade": "Rio de Janeiro",
+      "email": "t@gmail.com",
+      "id": 2,
+      "id_curso": 2
+    },
+    {
+      "nome": "tamires",
+      "endereço": "Rua muriae",
+      "bairro": "CG",
+      "cidade": "Minas",
+      "email": "taam@gmail.com",
+      "id": 3,
+      "id_curso": 2
+    },
+    {
+      "nome": "fatima maria",
+      "endereço": "Rua do leque",
+      "bairro": "campo grande",
+      "cidade": "Rio de Janeiro",
+      "email": "fatmariar@gmail.com",
+      "id_curso": 1,
+      "id": 4
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Técnico em Informática",
+      "id": 1
+    },
+    {
+      "nome": "Programadores Cariocas",
+      "id": 2
+    }
+  ]
+}
